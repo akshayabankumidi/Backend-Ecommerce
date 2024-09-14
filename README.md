@@ -1,7 +1,7 @@
 ## Visual References
 
 ## Database Schema and API Routes
-![image](https://github.com/user-attachments/assets/aecb84d2-bfdb-43b1-a916-3f936b249f0f)
+![image](https://github.com/user-attachments/assets/29204a4d-f517-438f-b052-66315560cb6b)
 
 ## Assumed frontend flow of the e-commerce application
 ![newpngecommers](https://github.com/user-attachments/assets/cea99b08-6357-4bb1-94f7-9fb94fdbc6cb)
@@ -332,5 +332,5 @@ Error response body:
 
 ## Notes
 - The `type` field in the user registration is used to distinguish between different user roles (buyer, seller).
-- Product creation and modification are restricted to users with seller roles.
+- Product creation and modification are restricted to users with buyer roles.
 - The `identifier` field in the login request can be either the user's email or username.
