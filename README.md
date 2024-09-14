@@ -1,7 +1,7 @@
 ## Visual References
 
 ## Database Schema and API Routes
-![image](https://github.com/user-attachments/assets/29204a4d-f517-438f-b052-66315560cb6b)
+![image](https://github.com/user-attachments/assets/bebbde0b-87f0-4e1e-975b-cb11688512b9)
 
 ## Assumed frontend flow of the e-commerce application
 ![newpngecommers](https://github.com/user-attachments/assets/cea99b08-6357-4bb1-94f7-9fb94fdbc6cb)
